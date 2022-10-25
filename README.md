@@ -1,7 +1,7 @@
 # CMPG-323-Project-4---32377630
 PRA and Testing
 
-<h2> Hereeeeeee I adress which repositories will be created and used for each project</h2>
+<h2> Hereeeeeeeetuqi I adress which repositories will be created and used for each project</h2>
 <body> The way I will approach creating repositories and prjoects is by creating a single 
   repository and adding each project to that repository/kanban as the semester continues.
   This is bound to change as I am already thinking of changing the way I want to manage my projects within repos and my repos within my projects</body>
