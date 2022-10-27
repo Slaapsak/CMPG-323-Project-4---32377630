@@ -1,26 +1,12 @@
 # CMPG-323-Project-4---32377630
 PRA and Testing
 
-<h2> Hereeeeeeeetuqi I adress which repositories will be created and used for each project</h2>
-<body> The way I will approach creating repositories and prjoects is by creating a single 
-  repository and adding each project to that repository/kanban as the semester continues.
-  This is bound to change as I am already thinking of changing the way I want to manage my projects within repos and my repos within my projects</body>
-<h3> Context diagram of explaining project and repository context and how they are integrated 
-<img src="Context_diagram.png"/>
-</h3>
-<h4>Here I explain the branching strategy to be used within each project </h4>
-<body>So I will Use feature branches for all new features and bug fixes, then merge these feature branches into the main branch using pull requests.
-This will help me maintian a high quality, up to date main branch
-This is bound to change, as I am creating this readme file I am alraedy thinking of changing my strategy</body>
-<h5>Here I explain the use of a .gitignore file within each project </h5>
-<body> The following files the files that should be ignored 
--Log files
--Files with API keys and secrets,credentials and sensitive information
--Usless system files
--Generated files like dist filders
--Dependencies which can be downlaoded from a package manager
+<body>UiPath is a robotic process automation tool for large-scale end-to-end automation.
+For an accelerated business change, it provides solutions for businesses to automate routine office activities. It uses a variety of methods to transform tedious tasks into automated processes.
+I have created my project in such a way that it streamlines processes, uncovers efficiencies and provides insights, making it effective for important Analytics and creating a better customer service experience. I also find that it boosts productivity across the board.
 
- I will manage this by Placing the .gitignore file in the rootfolder of the repository</body>
+It is important to notice that I have implemented the functionality to create,update new records as well as ask the user for input to change any record or entry of thier choice.
+users are also able to create new excel sheets along with headers and column names.
+This makes it much more effective manipulating data.
 
-<h6>Here I explain the storage of credentials and sensitive information </h6>
-<body>The best way that I can think of protecting and storing sensitive information and credentials is adding a SECURITY.md file that highlights security related information for the projects this semester </body>
+I have also hosted my process on UiPath Orchestrator and it took me 10 hours to complete this project</body>
